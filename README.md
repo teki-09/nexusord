@@ -2,6 +2,8 @@
 
 **An interactive, browser-only product demonstration covering music inscriptions, provenance, licensing, BRC-20, simulated Bitcoin indexing, AI-assisted piracy review, and DRM policy decisions.**
 
+**live demo : https://teki-09.github.io/nexusord/**
+
 > **Demo, not a blockchain service.** The interface runs on JavaScript and JSON in one `index.html`. It demonstrates connected workflows and observable state changes, but it does not inscribe on Bitcoin, operate an actual BRC-20 wallet, verify legal copyright ownership, scan the internet with AI, or enforce production DRM.
 
 ## Launch the demonstration
